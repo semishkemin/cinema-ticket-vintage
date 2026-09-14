@@ -8,7 +8,7 @@ The illustration recreates a late-1990s cinema ticket inspired by the urban lege
 Read the essay on Substack:
 [https://substack.com/@semishkemin]
 
-## Figure
+## Illustration
 `output/cinema_ticket_vintage.png`
 The illustration is generated entirely in Python using Pillow.
 
